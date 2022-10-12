@@ -1,7 +1,7 @@
 ## Hi dear✌, I'm João Pessanha
 * 🔥 Java | Back End | Junior | Developer
 
-* 💬 Ask me about Java, Git
+* 💬 Ask me about Java
 
 * 🤞 My dream is to become an excellent senior backend or full stack developer
 
@@ -29,6 +29,10 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-plain.
 </div> 
 <a href="https://www.linkedin.com/in/jo%C3%A3o-pessanha-a38b78b3" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
 <a href = "mailto:joaoricardopagano@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<div>  
+  <h4 align="right"> Visitantes </h4>
+  <img align="right" src="https://profile-counter.glitch.me/Pessanha23/count.svg">
+</div>   
 
 
 ![Snake animation](https://github.com/Pessanha23/Pessanha23/blob/output/github-contribution-grid-snake.svg)
