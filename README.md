@@ -26,7 +26,15 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-plain.
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" />
    <img align="center" alt="Pessanha-Java" height="50" width="60"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
-  
+   <img align="center" alt="Pessanha-Java" height="50" width="60"
+src="https://img.mandic.com.br/blog/2015/01/homepage-docker-logo.png" />
+  <img align="center" alt="Pessanha-Java" height="50" width="60"
+src="https://www.codingeek.com/wp-content/uploads/2020/12/Junit5.jpeg" />
+   <img align="center" alt="Pessanha-Java" height="50" width="60"
+src="https://springorama.files.wordpress.com/2018/04/spring-integration.png?w=650" />
+     <img align="center" alt="Pessanha-Java" height="50" width="60"
+src="https://miro.medium.com/v2/resize:fit:440/1*J3G3akaMpUOLegw0p0qthA.png" />
+    
 </div> 
   
    ##
