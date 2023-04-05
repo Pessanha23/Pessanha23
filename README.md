@@ -1,7 +1,7 @@
 ## Hi dear✌, I'm João Pessanha
 * 🔥 Java | Back End | Junior | Developer
 
-* 💬 Ask me about Java
+* 💬 Ask me about Java, Spring, API REST, JUnit5, Spring Integration, Docker.
 
 * 🤞 My dream is to become an excellent senior backend or full stack developer
 
@@ -30,12 +30,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-or
 src="https://img.mandic.com.br/blog/2015/01/homepage-docker-logo.png" />
        <img align="center" alt="Pessanha-Java" height="50" width="60"
 src="https://miro.medium.com/v2/resize:fit:440/1*J3G3akaMpUOLegw0p0qthA.png" />
-  <img align="center" alt="Pessanha-Java" height="50" width="60"
-src="https://www.codingeek.com/wp-content/uploads/2020/12/Junit5.jpeg" />
-   <img align="center" alt="Pessanha-Java" height="50" width="60"
-src="https://springorama.files.wordpress.com/2018/04/spring-integration.png?w=650" />
-
-    
+   
 </div> 
   
    ##
